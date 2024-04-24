@@ -10,7 +10,7 @@ void unique_Checker(String str){
                     System.out.println("Not Unique");
                     return;
                 }
-            }
+            }///
                     System.out.println("Unique");
                     return;
                 }

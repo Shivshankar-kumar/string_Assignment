@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class palinDrome {
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
-        System.out.println("Enter the Number to check PalinDrome Or Not?");
+        System.out.println("Enter the Number to check PalinDrome Or Not?:");
         int n=in.nextInt();
         //strore the value of n, in another variable
         int n2=n;
